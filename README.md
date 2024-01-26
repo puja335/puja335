@@ -4,7 +4,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/krishna-yadav-b39a8b250/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
@@ -54,11 +54,3 @@ I am a  Java Developer from Nepal.
 
 
 ---
-
-### :fire: My Stats :
-
-https://github-readme-streak-stats.herokuapp.com/?user=puja335
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puja335&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puja335&layout=compact&theme=vision-friendly-dark)](https://github.com/puja335/github-readme-stats)
